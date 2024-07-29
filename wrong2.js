@@ -69,5 +69,5 @@ document.querySelector(".shadow").style.boxShadow = "0px 0px 0px ";
 document.querySelector(".instructions-list>:nth-child(2)").textContent =
   "Separera ägggulor och äggvitor. Äggvitorna lägger du i en stor bunke, äggulorna i en liten bunke.";
 
-document.querySelector(".instruction-list>:nth-child(9)").textContent =
+document.querySelector(".instructions-list>:nth-child(9)").textContent =
   "Ställ in i frysen över natten.";
